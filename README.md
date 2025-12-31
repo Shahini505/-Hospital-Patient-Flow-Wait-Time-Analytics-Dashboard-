@@ -6,6 +6,7 @@ This Power BI project provides a comprehensive analysis of hospital operations, 
 
 The goal is to move from reactive management to data-driven decision-making to improve the quality of care and operational efficiency.
 
+
 📊 Dashboard Visuals
 1. Patient Flow & Overview (The Pulse)
 A high-level view of total patient volume, admission trends, and wait time categories. Patient Flow Screenshot (Replace with the actual path to your first screenshot)
